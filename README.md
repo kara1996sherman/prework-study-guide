@@ -1,3 +1,4 @@
+
 # Prework Study Guide Webpage
 ## A Study Guide for Prework
 
@@ -23,5 +24,3 @@ N/A
 
 ## License 
 MIT
-
-Footer
